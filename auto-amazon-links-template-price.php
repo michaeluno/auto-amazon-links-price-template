@@ -1,9 +1,10 @@
 <?php
 /**
- *	Plugin Name: Auto Amazon Links - Price Template
- *	Description: A template that shows only product prices.
- *	Author:      Michael Uno (miunosoft)
- *	Version:     1.0.0
+ *	Plugin Name:       Auto Amazon Links - Price Template
+ *	Description:       A template that shows only product prices.
+ *	Author:            Michael Uno (miunosoft)
+ *	Version:           1.0.0
+ *  GitHub Plugin URI: https://github.com/michaeluno/auto-amazon-links-price-template
  */
 namespace AutoAmazonLinks\Templates\Price;
 
